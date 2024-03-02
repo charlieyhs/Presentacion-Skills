@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19247
-Fork on GitHub
-5729
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Carlos Hernández</h1>
 <h3 align="center">Apasionado desarrollador de software e implementacidor de soluciones tecnológicas innovadoras. Me especializo en la creación de software eficiente y escalable para contribuir al éxito de proyectos, resolviendo problemas complejos y mejorando la experiencia del usuario.</h3>
 
